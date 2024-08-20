@@ -2,7 +2,6 @@
 
 This repository contains a **Stock Trading Report** created using Power BI. The report provides a detailed analysis of stock performance over time, covering various key metrics such as open, close, high, and low prices. It is designed to help traders and analysts gain insights into stock market trends and make informed decisions.
 
-![Stock Trading Report Dashboard]
 
 ## Overview
 
@@ -12,6 +11,10 @@ The report includes the following features:
 - **Historical Data Analysis**: Tracks the open, close, high, and low prices for each stock over a specific period.
 - **Interactive Visuals**: Provides interactive charts and graphs that allow users to explore data by different time frames (e.g., 1Y, 3M, 5D, etc.).
 - **Comparative Analysis**: Enables comparison of stock performance across different time periods and between different stocks.
+
+![Stock Trading Report Dashboard](https://i.postimg.cc/Jh0vVqcG/Stock-Treding-Report-black-page-0001.jpg)
+![Stock Trading Report Dashboard](https://i.postimg.cc/cCyb3Nqn/Stock-Treding-Report-black-page-0002.jpg)
+![Stock Trading Report Dashboard](https://i.postimg.cc/L4L7phfB/Stock-Treding-Report-White-page-0001.jpg)
 
 ## Technology Used
 
